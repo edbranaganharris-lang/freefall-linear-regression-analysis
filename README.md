@@ -1,5 +1,5 @@
 # freefall-linear-regression-analysis
-Multiple linear regression pipeline in Python to model freefall times for spheres of different materials, accounting for atmospheric air density and temperature. I compared MSE/MAE loss functions and batch, stochastic, and mini-batch gradient descent approaches to fit the experimental data provided for the assignment.
+Multiple linear regression pipeline in Python to fit freefall times for spheres of different materials. I compared MSE/MAE loss functions and batch, stochastic, and mini-batch gradient descent approaches to fit the experimental data provided for the assignment.
 
 Assignment and report were submitted as part of PHYS20035: Computational Physics and Data Science at the University of Bristol — awarded 78%
 
